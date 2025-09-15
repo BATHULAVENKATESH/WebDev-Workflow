@@ -1,0 +1,52 @@
+/* #id1{
+    background-color: blue;
+    font-size: 205%;
+
+}
+#id2{
+    background: #2799db;
+}
+
+.ulclass{
+    background: #c11088;
+}
+
+.ulclass2{
+
+    background-color: chartreuse;
+}
+
+.nonveg , ol{
+    background-color: grey;
+} */
+
+h3{
+  height:100px;
+  width: 200px; 
+  padding: 20px;
+  margin: 10px;
+  background-color: rgb(91, 181, 206);
+  border: 10px solid black;
+  border-bottom: 10px thick rgb(0, 75, 128);
+  border-bottom:10px solid tomato;
+  border-left: 10px solid rgb(170, 255, 0);
+  border-right:10px solid darkkhaki;
+  padding-inline: 10px ;
+  padding-block: 5px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 505;
+  padding-bottom: 50px;
+
+}
+
+.name{
+
+    background-color: rgb(188, 164, 127);
+}
+
+p{
+
+    background-color:rgb(150, 190, 109)
+
+}
