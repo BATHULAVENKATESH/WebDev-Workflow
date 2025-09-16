@@ -1,0 +1,120 @@
+p{
+    background-color: brown;
+}
+
+.firstclass{
+
+    background-color: deeppink;
+}
+
+.secondclass{
+
+    background-color: black;
+
+}
+
+#id1{
+    background-color: chocolate;
+}
+
+#id2{
+    background-color: gold;
+}
+
+.container{
+   height: 200px;
+   width: 300px;
+   background-color: #f7f7f7;
+   position: relative;
+
+}
+
+.circle{
+
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    
+}
+
+.id{
+    background-color: red;
+    position: relative;
+}
+
+.one, .three{
+    height: 70px;
+    width: 60px;
+    background-color: red;
+}
+.one{
+    position: relative;
+    height: 60px;
+}
+
+.three{
+    position: absolute;
+    height: 90px;
+    bottom: 0%;
+}
+
+.two, .four{
+    height: 70px;
+    width: 60px;
+    background-color: red;
+}
+.two{
+    position: absolute;
+    height: 60px;
+    width: 200px; ;
+    top: 0%;
+    right: 0%;
+}
+
+.four{
+    position: absolute;
+    height: 90px;
+    width: 200px;
+    bottom: 0%;
+    right: 0%;
+}
+
+
+.cont{
+    background-color: rgb(251, 240, 240);
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
+.first{
+
+    background-color: orangered;
+    width: 400px;
+    height: 70px;
+    position: absolute;
+}
+.snd{
+
+    background-color: green;
+    position: absolute;
+    width: 400px;
+    height: 70px;
+    bottom: 0%;
+}
+
+.ashoka{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+
+
