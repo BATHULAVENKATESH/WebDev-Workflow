@@ -1,0 +1,39 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    justify-content:center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    gap: 10px;
+
+
+}
+.id{
+
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+.one{
+    background-color: black;
+     /* flex-grow: 1; */
+
+}
+.two{
+    background-color:blue;
+    /* flex-grow: 2; */
+     /* justify-content: start; */
+     align-self: flex-end;
+    
+}
+
+.three{
+    background-color: brown;
+    align-self: flex-end ;
+}
+.four{
+    background-color: darkgreen;
+      align-self: first baseline;
+}
