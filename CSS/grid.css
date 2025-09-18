@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+    font-size: 30px;
+      
+}
+
+.body{
+
+    background-color: rgb(1, 12, 12);
+
+}
+
+.container{
+    display: grid;
+    grid-template-rows: 200px 200px;
+    grid-template-columns: 200px 200px;
+    gap: 10px;
+}
+
+.box1{
+
+
+    background-color: aquamarine;
+}
+
+.box2{
+     
+    background-color: blueviolet;
+}
+
+.box3{
+
+    background-color: chartreuse;
+}
+
+.box4{
+
+    background-color: rgb(47, 0, 255);
+}
